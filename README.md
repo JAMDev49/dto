@@ -1,7 +1,7 @@
 # DTO (Data Transfer Objects)
 
 [![Known Vulnerabilities](https://snyk.io/test/github/JAMDev49/dto/badge.svg)](https://snyk.io/test/github/JAMDev49/dto)
-
+[![CircleCI](https://circleci.com/gh/JAMDev49/dto.svg?style=shield)](https://circleci.com/gh/JAMDev49/dto)
 ## Overview
 
 This library was created to solve the problem of taking a data model from a datasource and needing to remove, add, merge, or translate the data model to a similar or completely different object. 
