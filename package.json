@@ -1,0 +1,26 @@
+{
+  "name": "dto",
+  "version": "0.0.1-biggms",
+  "description": "DTO (Data Transfer Object) framework for JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JAMDev49/dto.git"
+  },
+  "author": "Tyler Garlick <tjgarlick@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "enjoi": "^1.0.0",
+    "hoek": "^2.14.0",
+    "joi": "^6.6.1",
+    "json-ptr": "^0.2.0",
+    "lazy.js": "^0.4.0"
+  }
+}
